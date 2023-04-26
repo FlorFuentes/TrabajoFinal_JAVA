@@ -1,1 +1,5 @@
-# TrabajoFinal_JAVA
+<h2 dir="auto" style="text-align: center;" tabindex="-1"><strong><span style="text-decoration: underline;">#TrabajoFinal_Java</span></strong></h2>
+<h2 dir="auto" tabindex="-1"><g-emoji class="g-emoji" alias="round_pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cd.png">📍</g-emoji><strong><span style="text-decoration: underline;">Participantes del grupo</span>:</strong></h2>
+<p><b>&bull;&nbsp;</b>Walter Daniel Jim&eacute;nez<br /><b>&bull;&nbsp;</b>Melina Siri<br /><b>&bull;&nbsp;</b>Gabriel Bustamante<br /><b>&bull;&nbsp;</b>Florencia Fuentes<br /><b>&bull;&nbsp;</b>Giselli Montania Gonzalez</p>
+<h2 dir="auto" tabindex="-1"><g-emoji class="g-emoji" alias="round_pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cd.png">📍</g-emoji><strong><span style="text-decoration: underline;">Descripci&oacute;n del Proyecto Integrador:</span></strong></h2>
+<p>El proyecto consiste en construir una aplicaci&oacute;n en Java, para una librer&iacute;a virtual que calcule los precios de venta de los libros y revistas y que implemente un carrito de compras. Adem&aacute;s, debemos utilizar los conceptos de herencia, clases abstractas, constructores expl&iacute;citos, encapsulamiento y m&eacute;todos setter y getter.<strong></strong></p>

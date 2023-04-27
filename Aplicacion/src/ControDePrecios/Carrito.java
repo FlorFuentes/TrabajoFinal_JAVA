@@ -3,11 +3,11 @@ package ControDePrecios;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class CarritoCompra {
+public class Carrito {
     
     private ArrayList<Producto> productos;
 
-    public CarritoCompra() {
+    public Carrito() {
        productos = new ArrayList<>();
     }
 
@@ -21,8 +21,9 @@ public class CarritoCompra {
     
     
     public void mostrarProductos() {
-        for (Producto producto : productos) {
-            Scanner sc= new Scanner(System.in);
+        for (Producto productos : productos) {
+            Scanner sc = new Scanner(System.in);
+            String producto = sc.nextLine();
             System.out.println("Código: " + producto.getCodigo());
             System.out.println("Precio compra: " + producto.getPrecioCompra());
             System.out.println("Precio venta: " + producto.getPrecioVenta());

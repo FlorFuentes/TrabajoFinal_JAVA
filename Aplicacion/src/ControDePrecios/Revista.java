@@ -16,7 +16,6 @@ public class Revista  extends Producto{
     
     
    
-
     public String getNombre() {
         return nombre;
     }
